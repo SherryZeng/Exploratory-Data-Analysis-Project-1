@@ -5,6 +5,8 @@ To run this, please do the following:
 
 1.download the Dataset: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 
+The descriptions of the 9 variables in the dataset are taken from the UCI web site: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+
 2.Download the R code.
 
 3.Run the scripts.
